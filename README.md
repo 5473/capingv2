@@ -10,10 +10,7 @@ Untuk Penginstallan
 <li><code>git clone https://github.com/B4N954N2-ID/capingv2</code></li>
 <li><code>cd capingv2</code></li>
 <li><code>nano config.json</code></li>
-<br>
-Jika sudah diisi data confignya, lalu save dengan ketik
-CTRL + X + Y lalu klik enter
-<br>
+<br>Jika sudah diisi data confignya, lalu save dengan ketik CTRL + X + Y lalu klik enter</br>
 <li><code>php bot.php</code></li>
 </ul>
 <br />
